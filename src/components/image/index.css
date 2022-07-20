@@ -1,0 +1,8 @@
+.image {
+  margin-top: 10px;
+  margin-left: 30px;
+  height: 600px;
+  width: 700px;
+  border-radius: 15px;
+  background-color: rgb(40, 42, 54);
+}
